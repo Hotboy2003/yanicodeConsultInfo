@@ -1,0 +1,1 @@
+<img width="300" height="92" src="<?SITE_TEMPLATE_PATH?>/local/templates/yanicode/assets/images/svg/logo-yanicode.svg" alt="yanicode">

@@ -1,0 +1,1 @@
+<img src="/local/templates/yanicode/assets/images/case-img4.jpg">
